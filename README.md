@@ -37,7 +37,7 @@ Verify whether the candidate actually appears more than n/2 times
 
 Print the final majority community
 
-## 📌 Assignment 2 — Big Data Analysis
+# 📌 Assignment 2 — Big Data Analysis
 
 ### **Topic:** Detecting the Majority Community in a Large Synthetic Dataset Using Boyer–Moore
 
